@@ -7,9 +7,9 @@ Core code was contributed by YONGZHONG LI, SIYUAN LI, TAO TAN, FANDI PEI, JUNPEN
 
 (2)Clone the Information-Theory-Simulation repository via git or copy the contents to your hard drive.
 
-(3)Copy all_4.m into your default matlab working directory. Typically this directory is "/My Documents/MATLAB"
+(3)Copy all4.m into your default matlab working directory. Typically this directory is "/My Documents/MATLAB"
 
-(4)Change the paths within all_4.m to specify the locations of this repositories.
+(4)Change the paths within all4.m to specify the locations of this repositories.
 
 (5)Launch matlab.
 
